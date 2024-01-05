@@ -8,11 +8,20 @@
 
 RU:
 
-бла бла бла
+Я начинаю свой путь в Data Science и машинном обучении. Мой путь всегда был тесно связан с IT сферой ( после окончания ВУЗА, по профильной специальности, я начал свой путь в отделе информационной безопасности Сбер-Банка, успел побывать в роли "1С" программиста, поработать риелтором по продаже недвижимости и был соучреди́телем мелкого бизнеса, все эти "софт скилы" мне очень сильно пригодились на пути к моей цели по становлению хорошим ML Engineer, т.к. правильный подбор фичей, первоначальный анализ данных и понимание целей конкретной задачи очень сильно упрощают работу каждой модели ), в прошлом году решил более подробно углубиться в мир IT.
+Пробовал Яндекс-практикум, занимался с репетиторами, которые уже успешно реализовались в этой сфере, так же штудировал гугл и ютуб. 
+
+[Окончил с отличием SQL курс на степике](https://stepik.org/cert/2261370).
+
 ---
 EN:
 
-bla bla bla
+I'm starting my journey in Data Science and Machine Learning. My path has always been closely connected with the IT sphere. After graduating from higher education, in a specialized specialty, I began my journey in the information security department of Sber-Bank, managed to be a 1C programmer, work as a real estate agent and was a co-founder of a small business, all these “soft skills” were very useful to me on the way to my goal of becoming a good ML Engineer, because the correct selection of features, initial data analysis and understanding of the goals of a specific task greatly simplifies the work of each model. last year I decided to more delve deeper into the world of IT.
+I tried the Yandex workshop, worked with tutors who had already successfully implemented themselves in this area, and also studied Google and YouTube.
+
+[Graduated with honors from the SQL course on Stepik](https://stepik.org/cert/2261370).
+
+
 ---
 ### 💻 My programming languages:
 
