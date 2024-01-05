@@ -19,7 +19,7 @@ EN:
 I'm starting my journey in Data Science and Machine Learning. My path has always been closely connected with the IT sphere. After graduating from higher education, in a specialized specialty, I began my journey in the information security department of Sber-Bank, managed to be a 1C programmer, work as a real estate agent and was a co-founder of a small business, all these “soft skills” were very useful to me on the way to my goal of becoming a good ML Engineer, because the correct selection of features, initial data analysis and understanding of the goals of a specific task greatly simplifies the work of each model. last year I decided to more delve deeper into the world of IT.
 I tried the Yandex workshop, worked with tutors who had already successfully implemented themselves in this area, and also studied Google and YouTube.
 
-[Graduated with honors from the SQL course on Stepik](https://stepik.org/cert/2261370).
+[Graduated with honors from the SQL course on Stepik](https://stepik.org/cert/2261370?lang=en).
 
 
 ---
@@ -38,7 +38,8 @@ I tried the Yandex workshop, worked with tutors who had already successfully imp
   <img src="https://github.com/JustLikeF1re/justlikef1re/blob/main/some_stuff/sklearn_.png?raw=true" title="Scikit learn" alt="git" width="40" height="30"/>&nbsp
   <img src="https://github.com/JustLikeF1re/justlikef1re/blob/main/some_stuff/pandas_.png?raw=true" title="Pandas" alt="git" width="50" height="30"/>&nbsp
   <img src="https://github.com/JustLikeF1re/justlikef1re/blob/main/some_stuff/numpy_.png?raw=true" title="NumPy" alt="git" width="50" height="30"/>&nbsp
-  <img src="https://github.com/JustLikeF1re/justlikef1re/blob/main/some_stuff/matplotlib_.png?raw=true" title="Matplotlib" alt="git" width="65" height="30"/>&nbsp          
+  <img src="https://github.com/JustLikeF1re/justlikef1re/blob/main/some_stuff/matplotlib_.png?raw=true" title="Matplotlib" alt="git" width="65" height="30"/>&nbsp 
+  <img src="https://github.com/JustLikeF1re/justlikef1re/blob/main/some_stuff/seaborn_.png?raw=true" title="Seaborn" alt="git" width="75" height="30"/>&nbsp           
 </div>
 
 ---
