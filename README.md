@@ -8,11 +8,19 @@
 
 
 ---
+### 💻 Языки программирования:
 
+<div>
+  <img src="https://github.com/JustLikeF1re/justlikef1re/blob/main/some_stuff/python_.jpeg?raw=true" title="Python" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://github.com/JustLikeF1re/justlikef1re/blob/main/some_stuff/Sql_.png?raw=true" title="SQL" alt="git" width="40" height="40"/>&nbsp
+</div>
+
+
+---
 ### 🛠 Инструменты:
 
 <div>
-  <img src="https://github.com/JustLikeF1re/justlikef1re/blob/main/some_stuff/sklearn_.png?raw=true" title="scikit learn" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://github.com/JustLikeF1re/justlikef1re/blob/main/some_stuff/sklearn_.png?raw=true" title="Scikit learn" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/JustLikeF1re/justlikef1re/blob/main/some_stuff/Sql_.png?raw=true" title="SQL" alt="git" width="40" height="40"/>&nbsp
 </div>
 
