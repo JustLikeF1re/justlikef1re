@@ -11,8 +11,8 @@
 ### 💻 Языки программирования:
 
 <div>
-  <img src="https://github.com/JustLikeF1re/justlikef1re/blob/main/some_stuff/python_.jpeg?raw=true" title="Python" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://github.com/JustLikeF1re/justlikef1re/blob/main/some_stuff/Sql_.png?raw=true" title="SQL" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://github.com/JustLikeF1re/justlikef1re/blob/main/some_stuff/python_.jpeg?raw=true" title="Python" alt="git" width="30" height="30"/>&nbsp
+  <img src="https://github.com/JustLikeF1re/justlikef1re/blob/main/some_stuff/Sql_.png?raw=true" title="SQL" alt="git" width="45" height="30"/>&nbsp
 </div>
 
 
@@ -21,9 +21,9 @@
 
 <div>
   <img src="https://github.com/JustLikeF1re/justlikef1re/blob/main/some_stuff/sklearn_.png?raw=true" title="Scikit learn" alt="git" width="40" height="30"/>&nbsp
-  <img src="https://github.com/JustLikeF1re/justlikef1re/blob/main/some_stuff/pandas_.png?raw=true" title="Pandas" alt="git" width="40" height="30"/>&nbsp
-  <img src="https://github.com/JustLikeF1re/justlikef1re/blob/main/some_stuff/numpy_.png?raw=true" title="NumPy" alt="git" width="40" height="30"/>&nbsp
-  <img src="https://github.com/JustLikeF1re/justlikef1re/blob/main/some_stuff/matplotlib_.png?raw=true" title="Matplotlib" alt="git" width="55" height="30"/>&nbsp
+  <img src="https://github.com/JustLikeF1re/justlikef1re/blob/main/some_stuff/pandas_.png?raw=true" title="Pandas" alt="git" width="45" height="30"/>&nbsp
+  <img src="https://github.com/JustLikeF1re/justlikef1re/blob/main/some_stuff/numpy_.png?raw=true" title="NumPy" alt="git" width="45" height="30"/>&nbsp
+  <img src="https://github.com/JustLikeF1re/justlikef1re/blob/main/some_stuff/matplotlib_.png?raw=true" title="Matplotlib" alt="git" width="65" height="30"/>&nbsp
   <img src="https://github.com/JustLikeF1re/justlikef1re/blob/main/some_stuff/git_.png?raw=true" title="Git" alt="git" width="30" height="30"/>&nbsp
   <img src="https://github.com/JustLikeF1re/justlikef1re/blob/main/some_stuff/linux_.jpeg?raw=true" title="NumPy" alt="Linux" width="30" height="30"/>&nbsp        
 </div>
