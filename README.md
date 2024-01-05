@@ -26,7 +26,7 @@
   <img src="https://github.com/JustLikeF1re/justlikef1re/blob/main/some_stuff/matplotlib_.png?raw=true" title="Matplotlib" alt="git" width="65" height="30"/>&nbsp
   <img src="https://github.com/JustLikeF1re/justlikef1re/blob/main/some_stuff/git_.png?raw=true" title="Git" alt="git" width="30" height="30"/>&nbsp
   <img src="https://github.com/JustLikeF1re/justlikef1re/blob/main/some_stuff/linux_.jpeg?raw=true" title="NumPy" alt="Linux" width="30" height="30"/>&nbsp
-  <img src="https://github.com/JustLikeF1re/justlikef1re/blob/main/some_stuff/vsc_.jpeg?raw=true" title="NumPy" alt="Visual Studio Code" width="30" height="30"/>&nbsp           
+  <img src="https://github.com/JustLikeF1re/justlikef1re/blob/main/some_stuff/vsc_.jpeg?raw=true" title="Visual Studio Code" alt="Linux" width="30" height="30"/>&nbsp           
 </div>
 
 ---
