@@ -11,8 +11,8 @@
 ### 💻 Языки программирования:
 
 <div>
-  <img src="https://github.com/JustLikeF1re/justlikef1re/blob/main/some_stuff/python_.jpeg?raw=true" title="Python" alt="git" width="30" height="30"/>&nbsp
-  <img src="https://github.com/JustLikeF1re/justlikef1re/blob/main/some_stuff/Sql_.png?raw=true" title="SQL" alt="git" width="45" height="30"/>&nbsp
+  <img src="https://github.com/JustLikeF1re/justlikef1re/blob/main/some_stuff/p_2.png?raw=true" title="Python" alt="git" width="65" height="50"/>&nbsp
+  <img src="https://github.com/JustLikeF1re/justlikef1re/blob/main/some_stuff/Sql_.png?raw=true" title="SQL" alt="git" width="65" height="40"/>&nbsp
 </div>
 
 
