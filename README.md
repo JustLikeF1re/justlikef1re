@@ -12,8 +12,8 @@
 ### 🛠 Инструменты:
 
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" title="scikit learn" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png?20210130181641" title="SQL" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://github.com/JustLikeF1re/justlikef1re/blob/main/some_stuff/sklearn_.png?raw=true" title="scikit learn" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://github.com/JustLikeF1re/justlikef1re/blob/main/some_stuff/Sql_.png?raw=true" title="SQL" alt="git" width="40" height="40"/>&nbsp
 </div>
 
 ---
