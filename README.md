@@ -1,6 +1,13 @@
-### Hi there 👋
+# Привет, меня зовут Дмитрий!
 
-Just test
+---
+
+### :man_technologist: Обо мне:
+
+бла бла бла
 
 
-2nd test
+:mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-JustLikeFlame-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/JustLikeFlame) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:skainett@gmail.com)
+
+---
+
