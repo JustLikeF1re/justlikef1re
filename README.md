@@ -8,16 +8,18 @@
 
 RU:
 
-Я начинаю свой путь в Data Science и машинном обучении. Мой путь всегда был тесно связан с IT сферой. После окончания ВУЗА, по профильной специальности, я начал свой путь в отделе информационной безопасности Сбер-Банка, успел побывать в роли "1С" программиста, поработать риелтором по продаже недвижимости и был соучреди́телем мелкого бизнеса, все эти "софт скилы" мне очень сильно пригодились на пути к моей цели по становлению хорошим ML Engineer, т.к. правильный подбор фичей, первоначальный анализ данных и понимание целей конкретной задачи очень сильно упрощают работу каждой модели. В прошлом году решил более подробно углубиться в мир IT.
-Пробовал Яндекс-практикум, занимался с репетиторами, которые уже успешно реализовались в этой сфере, так же штудировал гугл и ютуб. 
+Я начинаю свой профессиональный путь в области IT, тесно связанный с данными и машинным обучением. После завершения высшего образования по профильной специальности вступил в отдел информационной безопасности Сбербанка. За время карьеры охватил различные роли, включая "1С" программиста, риелтора по недвижимости, и соучредителя мелкого бизнеса. Эти разнообразные опыты развили мои "софт скилы", оказавшиеся весьма полезными в моем стремлении стать опытным ML Engineer.
+
+Прошлый год посвятил более глубокому погружению в мир IT. Приобрел опыт через учебу в Яндекс-практикуме, персональное обучение с опытными репетиторами в данной области, а также изучение материалов от Google и YouTube. Основной акцент был сделан на углубленном понимании процессов подбора фичей, принципов построения моделей, анализа данных и целенаправленного подхода к решению задач машинного обучения. 
 
 [Окончил с отличием SQL курс на степике](https://stepik.org/cert/2261370).
 
 ---
 EN:
 
-I'm starting my journey in Data Science and Machine Learning. My path has always been closely connected with the IT sphere. After graduating from higher education, in a specialized specialty, I began my journey in the information security department of Sber-Bank, managed to be a 1C programmer, work as a real estate agent and was a co-founder of a small business, all these “soft skills” were very useful to me on the way to my goal of becoming a good ML Engineer, because the correct selection of features, initial data analysis and understanding of the goals of a specific task greatly simplifies the work of each model. last year I decided to more delve deeper into the world of IT.
-I tried the Yandex workshop, worked with tutors who had already successfully implemented themselves in this area, and also studied Google and YouTube.
+I am starting my professional journey in the IT field, closely related to data and machine learning. After completing my higher education in a relevant specialization, I joined the information security department at Sberbank. Throughout my career, I've taken on various roles, including "1C" programmer, real estate agent, and co-founder of a small business. These diverse experiences have developed my soft skills, proving valuable in my pursuit of becoming an experienced ML Engineer.
+
+Last year, I dedicated myself to a deeper immersion in the IT world. I gained experience through studying at Yandex.Praktikum, receiving personal tutoring from experienced professionals, and exploring materials from Google and YouTube. The main focus was on gaining a profound understanding of feature selection processes, model building principles, data analysis, and a targeted approach to solving machine learning tasks.
 
 [Graduated with honors from the SQL course on Stepik](https://stepik.org/cert/2261370?lang=en).
 
