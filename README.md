@@ -57,6 +57,7 @@ Last year, I dedicated myself to a deeper immersion in the IT world. I gained ex
 
 ---
 
-:mailbox: How to contact me / Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/JustLikeFlame) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:skainett@gmail.com)
+:mailbox: How to contact me / Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/JustLikeFlame) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:skainett@gmail.com)[![Telegram Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitrii-viktorov-928b61271?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bc4Mgr7%2FaQa%2BnfFQof2DsJQ%3D%3D)
+
 
 ---
