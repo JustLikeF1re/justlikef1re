@@ -53,6 +53,7 @@ RU:
   <img src="https://github.com/JustLikeF1re/justlikef1re/blob/main/some_stuff/vsc_.jpeg?raw=true" title="Visual Studio Code" alt="Linux" width="30" height="30"/>&nbsp
     <img src="https://raw.githubusercontent.com/JustLikeF1re/justlikef1re/refs/heads/main/some_stuff/Airflow_2.png" title="Apache Airflow" alt="Apache Airflow" width="30" height="30"/>&nbsp
     <img src="https://raw.githubusercontent.com/JustLikeF1re/justlikef1re/refs/heads/main/some_stuff/Telegram.jpeg" title="Telegram" alt="Telegram" width="30" height="30"/>&nbsp
+    <img src="https://raw.githubusercontent.com/JustLikeF1re/justlikef1re/refs/heads/main/some_stuff/Exel.png" title="Microsoft Excel" alt="Microsoft Excel" width="30" height="30"/>&nbsp
 <div>
 
 ---
