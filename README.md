@@ -8,9 +8,11 @@
 
 EN:
 
-I am starting my professional journey in the IT field, closely related to data and machine learning. After completing my higher education in a relevant specialization, I joined the information security department at Sberbank. Throughout my career, I've taken on various roles, including "1C" programmer, real estate agent, and co-founder of a small business. These diverse experiences have developed my soft skills, proving valuable in my pursuit of becoming an experienced ML Engineer.
+Started my career at Sberbank in the Information Security department after completing higher education. Developed IT expertise through Yandex Practicum, private tutoring, and self-study (Google, YouTube).
 
-Last year, I dedicated myself to a deeper immersion in the IT world. I gained experience through studying at Yandex.Praktikum, receiving personal tutoring from experienced professionals, and exploring materials from Google and YouTube. The main focus was on gaining a profound understanding of feature selection processes, model building principles, data analysis, and a targeted approach to solving machine learning tasks.
+Gained experience as a Data Analyst in an international company: contributed to product profitability modeling, automated reporting (Google Sheets, Airflow, Excel), built Telegram bots for ad-hoc analytics, and implemented data quality controls, reducing weekly outliers by 30%. Also participated in the development of the “Red Traffic” system and optimization of partner performance.
+
+Strong interests in ML, analytics, mathematics, and Linux. Continuously learning and motivated by solving complex problems.
 
 [Graduated with honors from the SQL course on Stepik](https://stepik.org/cert/2261370?lang=en).
 
@@ -18,9 +20,11 @@ Last year, I dedicated myself to a deeper immersion in the IT world. I gained ex
 ---
 RU:
 
-Я начинаю свой профессиональный путь в области IT, тесно связанный с данными и машинным обучением. После завершения высшего образования по профильной специальности вступил в отдел информационной безопасности Сбербанка. За время карьеры охватил различные роли, включая "1С" программиста, риелтора по недвижимости, и соучредителя мелкого бизнеса. Эти разнообразные опыты развили мои "софт скилы", оказавшиеся весьма полезными в моем стремлении стать опытным ML Engineer.
+Начал карьеру в Сбербанке в отделе информационной безопасности после получения высшего образования. Развивал IT-компетенцию на Яндекс-Практикуме, у персональных репетиторов и самостоятельно изучая Google, YouTube.
 
-Прошлый год посвятил более глубокому погружению в мир IT. Приобрел опыт через учебу в Яндекс-практикуме, персональное обучение с опытными репетиторами в данной области, а также изучение материалов от Google и YouTube. Основной акцент был сделан на углубленном понимании процессов подбора фичей, принципов построения моделей, анализа данных и целенаправленного подхода к решению задач машинного обучения. 
+Приобрел опыт работы аналитиком данных в международной компании: участвовал в моделировании рентабельности продуктов, автоматизированной отчётности (Google Таблицы, Airflow, Excel), разрабатывал Telegram-ботов для ad-hoc аналитики и внедрял системы контроля качества данных, что позволило сократить еженедельные выбросы на 30%. Также участвовал в разработке системы «Red Traffic» и оптимизации работы партнёров.
+
+Увлечён машинным обучением, аналитикой, математикой и Linux. Постоянно обучаюсь и мотивирован решением сложных задач.
 
 [Окончил с отличием SQL курс на степике](https://stepik.org/cert/2261370).
 
