@@ -42,9 +42,9 @@ RU:
 ### 🛠 My tools:
 
 <div>
-  <img src="https://github.com/JustLikeF1re/justlikef1re/blob/main/some_stuff/sklearn_.png?raw=true" title="Scikit learn" alt="git" width="100" height="30"/>&nbsp
-  <img src="https://github.com/JustLikeF1re/justlikef1re/blob/main/some_stuff/pandas_.png?raw=true" title="Pandas" alt="git" width="50" height="30"/>&nbsp
-  <img src="https://github.com/JustLikeF1re/justlikef1re/blob/main/some_stuff/numpy_.png?raw=true" title="NumPy" alt="git" width="50" height="30"/>&nbsp
+  <img src="https://github.com/JustLikeF1re/justlikef1re/blob/main/some_stuff/sklearn_.png?raw=true" title="Scikit learn" alt="git" width="40" height="30"/>&nbsp
+  <img src="https://github.com/JustLikeF1re/justlikef1re/blob/main/some_stuff/pandas_.png?raw=true" title="Pandas" alt="git" width="100" height="30"/>&nbsp
+  <img src="https://github.com/JustLikeF1re/justlikef1re/blob/main/some_stuff/numpy_.png?raw=true" title="NumPy" alt="git" width="100" height="30"/>&nbsp
   <img src="https://github.com/JustLikeF1re/justlikef1re/blob/main/some_stuff/matplotlib_.png?raw=true" title="Matplotlib" alt="git" width="65" height="30"/>&nbsp 
   <img src="https://github.com/JustLikeF1re/justlikef1re/blob/main/some_stuff/seaborn_.png?raw=true" title="Seaborn" alt="git" width="75" height="30"/>&nbsp 
     <img src="https://raw.githubusercontent.com/JustLikeF1re/justlikef1re/refs/heads/main/some_stuff/Clichouse.png" title="ClickHouse" alt="git" width="70" height="30"/>&nbsp   
