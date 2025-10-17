@@ -23,7 +23,7 @@
 <a href="https://www.python.org/" title="Python — основной язык для анализа данных и автоматизации">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
 </a>
-<a href="https://www.postgresql.org/" title="SQL — язык запросов для работы с базами данных (PostgreSQL)">
+<a href="https://www.postgresql.org/" title="SQL — язык запросов для работы с базами данных">
   <img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white">
 </a>
 
@@ -62,7 +62,7 @@
 <a href="https://www.atlassian.com/software/confluence" title="Confluence — система документации и совместной работы">
   <img src="https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white">
 </a>
-<a href="https://www.linux.org/" title="Linux — серверные среды и командная строка">
+<a href="https://www.linux.org/" title="Linux">
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
 </a>
 
