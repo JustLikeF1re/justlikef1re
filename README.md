@@ -39,9 +39,11 @@
 
 ---
 
-### 🌐 Profiles
+### 🌐 Profiles :
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/JustLikeF1re/My_Profile)  
+
+### Other social medias :
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/justlikef1re)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitrii-viktorov-928b61271)  
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/JustLikeFlame)  
