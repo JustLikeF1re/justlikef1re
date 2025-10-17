@@ -24,18 +24,43 @@
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
 
 #### Libraries & Tools\
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=plotly)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apache-airflow)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC00?logo=clickhouse)
-![Telegram API](https://img.shields.io/badge/Telegram%20Bot-26A5E4?logo=telegram)
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?logo=googlesheets&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?logo=jupyter&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+<a href="https://pandas.pydata.org/" title="Pandas — анализ и обработка данных">
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas">
+</a>
+<a href="https://numpy.org/" title="NumPy — работа с многомерными массивами и вычислениями">
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy">
+</a>
+<a href="https://scikit-learn.org/" title="Scikit-learn — инструменты машинного обучения">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn">
+</a>
+<a href="https://matplotlib.org/" title="Matplotlib — визуализация данных">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=plotly">
+</a>
+<a href="https://airflow.apache.org/" title="Apache Airflow — оркестрация и автоматизация ETL-процессов">
+  <img src="https://img.shields.io/badge/Airflow-017CEE?logo=apache-airflow">
+</a>
+<a href="https://clickhouse.com/" title="ClickHouse — аналитическая СУБД для больших данных">
+  <img src="https://img.shields.io/badge/ClickHouse-FFCC00?logo=clickhouse">
+</a>
+<a href="https://core.telegram.org/bots/api" title="Telegram API — создание и интеграция телеграм-ботов">
+  <img src="https://img.shields.io/badge/Telegram%20Bot-26A5E4?logo=telegram">
+</a>
+<a href="https://www.microsoft.com/microsoft-365/excel" title="Excel — отчеты, визуализация и анализ данных">
+  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white">
+</a>
+<a href="https://www.google.com/sheets/about/" title="Google Sheets — совместные таблицы и дашборды">
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853?logo=googlesheets&logoColor=white">
+</a>
+<a href="https://jupyter.org/" title="Jupyter Notebook — интерактивные тетради для анализа данных">
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?logo=jupyter&logoColor=white">
+</a>
+<a href="https://www.atlassian.com/software/confluence" title="Confluence — система документации и совместной работы">
+  <img src="https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white">
+</a>
+<a href="https://www.linux.org/" title="Linux — серверные среды и командная строка">
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
+</a>
+
 
 ---
 
