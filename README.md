@@ -71,13 +71,23 @@
 
 ### 🌐 Profiles :
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/JustLikeF1re/My_Profile)  
+<a href="https://github.com/JustLikeF1re/My_Profile" title="GitHub — мои проекты и портфолио">
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
+</a>  
 
 ### Other social medias :
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/justlikef1re)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitrii-viktorov-928b61271)  
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/JustLikeFlame)  
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](mailto:born2beflame@gmail.com)
+<a href="https://www.kaggle.com/justlikef1re" title="Kaggle — соревнования и проекты по анализу данных">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/dmitrii-viktorov-928b61271" title="LinkedIn — профессиональный профиль и опыт работы">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white">
+</a>
+<a href="https://t.me/JustLikeFlame" title="Telegram — личный контакт для связи">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white">
+</a>
+<a href="mailto:born2beflame@gmail.com" title="Gmail — написать письмо">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white">
+</a>
 
 ---
 
