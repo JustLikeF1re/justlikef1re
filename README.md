@@ -20,8 +20,13 @@
 ### 🧰 Tech Stack
 
 #### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
+<a href="https://www.python.org/" title="Python — основной язык для анализа данных и автоматизации">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+</a>
+<a href="https://www.postgresql.org/" title="SQL — язык запросов для работы с базами данных (PostgreSQL)">
+  <img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white">
+</a>
+
 
 #### Libraries & Tools\
 <a href="https://pandas.pydata.org/" title="Pandas — анализ и обработка данных">
