@@ -75,7 +75,12 @@
 <a href="https://github.com/JustLikeF1re/My_Profile" title="GitHub — мои проекты и портфолио">
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
 </a>  
-Скачать пдф вариант резюме можно тут: 📥 [Скачать файл](https://drive.google.com/uc?export=download&id=1_Izdt3cC9FmjCcXj0CW3Ofe2l0IvQKJV)
+<details>
+  <summary>📄 Скачать PDF-версию резюме</summary>
+
+  [Скачать файл](https://drive.google.com/uc?export=download&id=1_Izdt3cC9FmjCcXj0CW3Ofe2l0IvQKJV)
+</details>
+
 
 ### Мои контакты :
 <a href="mailto:born2beflame@gmail.com" title="Gmail — написать письмо">
