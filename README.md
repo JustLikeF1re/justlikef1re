@@ -76,9 +76,9 @@
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
 </a>  
 <details>
-  <summary>📄 Скачать PDF-версию резюме</summary>
+  <summary>📄 Скачать PDF-версию резюме :</summary>
 
-  [Скачать файл](https://drive.google.com/uc?export=download&id=1_Izdt3cC9FmjCcXj0CW3Ofe2l0IvQKJV)
+  [**Скачать файл**](https://drive.google.com/uc?export=download&id=1_Izdt3cC9FmjCcXj0CW3Ofe2l0IvQKJV)
 </details>
 
 
