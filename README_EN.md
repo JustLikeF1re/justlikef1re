@@ -79,11 +79,6 @@ Data Analyst with experience in information security and entrepreneurship. Posse
 <a href="https://github.com/JustLikeF1re/My_Profile" title="GitHub - My Projects and Portfolio">
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
 </a>  
-<details>
-  <summary>📄 Download a PDF version :</summary>
-
-  [**Download file**](https://drive.google.com/uc?export=download&id=1_Izdt3cC9FmjCcXj0CW3Ofe2l0IvQKJV)
-</details>
 
 
 ### Other social medias :
@@ -101,7 +96,13 @@ Data Analyst with experience in information security and entrepreneurship. Posse
 </a>
 
 ---
+<details>
+  <summary>📄 Download a PDF version :</summary>
 
+  [**Download file**](https://drive.google.com/uc?export=download&id=1_Izdt3cC9FmjCcXj0CW3Ofe2l0IvQKJV)
+</details>
+
+---
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustLikeF1re&show_icons=true&theme=tokyonight)
