@@ -13,9 +13,9 @@ Data Analyst with experience in information security and entrepreneurship. Posse
 
 🤖 Developed Telegram bots for ad-hoc analytics and automated reporting (Airflow, Sheets).
 
-🔄 Created and improved existing **ETL processes** for data integration and cleansing.  
+🔄 Created and improved existing ETL processes for data integration and cleansing.  
 
-🧭 Responsible for maintaining **Confluence** and creating **flowcharts** to help business teams better understand internal processes.  
+🧭 Responsible for maintaining Confluence and creating flowcharts to help business teams better understand internal processes.  
 
 👨‍💻 Performed ad-hoc analyses and prepared analytical reports in Excel and Google Sheets to support managerial decision-making.
 
