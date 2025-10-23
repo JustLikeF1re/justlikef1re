@@ -13,6 +13,10 @@ Data Analyst with experience in information security and entrepreneurship. Posse
 
 🤖 Developed Telegram bots for ad-hoc analytics and automated reporting (Airflow, Sheets).
 
+🔄 Created and improved existing **ETL processes** for data integration and cleansing.  
+
+🧭 Responsible for maintaining **Confluence** and creating **flowcharts** to help business teams better understand internal processes.  
+
 👨‍💻 Performed ad-hoc analyses and prepared analytical reports in Excel and Google Sheets to support managerial decision-making.
 
 ⚙️ Daily tools I work with: `Python`, `SQL`, `Airflow`, `ClickHouse`, `Git`, `Excel`, `Google Sheets`, `Linux`, and more — because I enjoy learning new technologies.
@@ -99,7 +103,7 @@ Data Analyst with experience in information security and entrepreneurship. Posse
 <details>
   <summary>📄 Download a PDF version :</summary>
 
-  [**Download file**](https://drive.google.com/uc?export=download&id=1_Izdt3cC9FmjCcXj0CW3Ofe2l0IvQKJV)
+  [**Download file**](https://drive.google.com/uc?export=download&id=1lHvnJ_dYsXSNI3H3SBfOQ_e3NoQw_CvB)
 </details>
 
 ---
