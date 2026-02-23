@@ -11,7 +11,7 @@ Data Analyst with experience in information security and entrepreneurship. Posse
 
 📊 Worked on profitability modeling and data quality control (reducing outliers by ~30% weekly).
 
-🤖 Developed Telegram bots for ad-hoc analytics and automated reporting (Airflow, Sheets).
+🤖 Developed Slack\Telegram bots for ad-hoc analytics and automated reporting (Airflow, Sheets).
 
 🔄 Created and improved existing ETL processes for data integration and cleansing.  
 
@@ -103,7 +103,7 @@ Data Analyst with experience in information security and entrepreneurship. Posse
 <details>
   <summary>📄 Download a PDF version :</summary>
 
-  [**Download file**](https://drive.google.com/uc?export=download&id=1lHvnJ_dYsXSNI3H3SBfOQ_e3NoQw_CvB)
+  [**Download file**](https://drive.google.com/file/d/1G6_03nD0wuEKPlbdKVPTdMuyYNGEqZl1)
 </details>
 
 ---
