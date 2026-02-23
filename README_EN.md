@@ -11,6 +11,8 @@ Data Analyst with experience in information security and entrepreneurship. Posse
 
 📊 Worked on profitability modeling and data quality control (reducing outliers by ~30% weekly).
 
+🛠️ Led data migration between databases, coordinating requirements with front-end and back-end teams.
+
 🤖 Developed Slack\Telegram bots for ad-hoc analytics and automated reporting (Airflow, Sheets).
 
 🔄 Created and improved existing ETL processes for data integration and cleansing.  
