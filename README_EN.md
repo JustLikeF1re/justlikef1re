@@ -105,7 +105,7 @@ Data Analyst with experience in information security and entrepreneurship. Posse
 <details>
   <summary>📄 Download a PDF version :</summary>
 
-  [**Download file**](https://drive.google.com/file/d/1G6_03nD0wuEKPlbdKVPTdMuyYNGEqZl1)
+  [**Open file**](https://drive.google.com/file/d/1G6_03nD0wuEKPlbdKVPTdMuyYNGEqZl1)
 </details>
 
 ---
