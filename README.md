@@ -97,7 +97,7 @@
 <details>
   <summary>📄 Скачать PDF-версию резюме :</summary>
 
-  [**Открыть файл**](https://drive.google.com/file/d/1sndkgjjAmjvQx_HoPs1JZl2jK-qc9hHW)
+  [**Открыть файл**](https://drive.google.com/file/d/1iMNX_cpERk-itzQNKD4p5Dv5ZA_3yqZQ)
 </details>
 
 ---
